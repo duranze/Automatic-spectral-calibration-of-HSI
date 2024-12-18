@@ -21,6 +21,14 @@ We are proud to introduce **HASCID**, the **first dataset designed specifically 
 - **Benchmarking Standard**:  
   HASCID establishes a new standard for spectral calibration by combining real-world scene variability with rigorous illumination recording, offering a robust foundation for testing and advancing spectral calibration techniques.
 
+## Dataset Splits
+
+The file `real_light_split.json` provides predefined **'train'**, **'validation'**, and **'test'** splits of the dataset, enabling standardized evaluation and comparison across different methods.
+
+## Synthetic Data Generation
+
+The script `gen_sim_data.py` can be used to generate the **HASCID-E** dataset, a synthetic extension of HASCID, by simulating 10 different illumination conditions recorded in `ill_sim.pkl`. This allows researchers to explore and benchmark their methods under controlled, yet diverse, illumination variations.
+
 ## Download
 
 You can access the dataset via the following link:  
