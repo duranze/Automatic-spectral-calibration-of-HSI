@@ -36,14 +36,14 @@ You can access the dataset via the following link:
 **Password**: `pgkg`
 
 ## Citation
-@misc{du2024automaticspectralcalibrationhyperspectral,
-      title={Automatic Spectral Calibration of Hyperspectral Images: Method, Dataset and Benchmark}, 
-      author={Zhuoran Du and Shaodi You and Cheng Cheng and Shikui Wei},
-      year={2024},
-      eprint={2412.14925},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.14925}, 
+@misc{du2024spectral,<br>
+      title={Automatic Spectral Calibration of Hyperspectral Images: Method, Dataset and Benchmark}, <br>
+      author={Zhuoran Du and Shaodi You and Cheng Cheng and Shikui Wei},<br>
+      year={2024},<br>
+      eprint={2412.14925},<br>
+      archivePrefix={arXiv},<br>
+      primaryClass={cs.CV},<br>
+      url={https://arxiv.org/abs/2412.14925}, <br>
 }
 
 We hope BJTU-UVA inspires new research and development in the field of hyperspectral imaging. If you use this dataset, please consider citing our work.
