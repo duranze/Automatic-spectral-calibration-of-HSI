@@ -35,4 +35,15 @@ You can access the dataset via the following link:
 **[BaiduNetDisk](https://pan.baidu.com/s/1NawnIBN3ixH_qec70zenLQ)**  
 **Password**: `pgkg`
 
+## Citation
+@misc{du2024automaticspectralcalibrationhyperspectral,
+      title={Automatic Spectral Calibration of Hyperspectral Images: Method, Dataset and Benchmark}, 
+      author={Zhuoran Du and Shaodi You and Cheng Cheng and Shikui Wei},
+      year={2024},
+      eprint={2412.14925},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.14925}, 
+}
+
 We hope BJTU-UVA inspires new research and development in the field of hyperspectral imaging. If you use this dataset, please consider citing our work.
