@@ -43,7 +43,7 @@ You can access the dataset via the following link:
       eprint={2412.14925},<br>
       archivePrefix={arXiv},<br>
       primaryClass={cs.CV},<br>
-      url={https://arxiv.org/abs/2412.14925}, <br>
+      url={ https://arxiv.org/abs/2412.14925 }, <br>
 }
 
 We hope BJTU-UVA inspires new research and development in the field of hyperspectral imaging. If you use this dataset, please consider citing our work.
