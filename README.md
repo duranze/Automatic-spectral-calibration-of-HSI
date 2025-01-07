@@ -2,7 +2,9 @@
 
 We are proud to introduce **BJTU-UVA**, the **first dataset designed specifically for the task of automatic spectral calibration** of hyperspectral images (HSIs). This dataset addresses the critical challenge of minimizing illumination variability without relying on manual intervention or physical references.
 
-<img src="figure-task.jpg" alt="任务图示" style="width:300px;">
+<div align="center">
+  <img src="figure-task.jpg" alt="任务图示" style="width:500px;">
+</div>
 ## Key Highlights
 
 - **Task Proposal**:  
