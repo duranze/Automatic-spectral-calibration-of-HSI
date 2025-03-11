@@ -1,9 +1,9 @@
-# BJTU-UVA: The First Dataset for Automatic Spectral Calibration of Hyperspectral Images
+# BJTU-UVA: The First Dataset for Automatic Spectral Calibration of Hyperspectral Images (CVPR 2025)
 
 We are proud to introduce **BJTU-UVA**, the **first dataset designed specifically for the task of automatic spectral calibration** of hyperspectral images (HSIs). This dataset addresses the critical challenge of minimizing illumination variability without relying on manual intervention or physical references.
 
 <div align="center">
-  <img src="figure-task.jpg" alt="任务图示" style="width:500px;">
+  <img src="figure-task.jpg" alt="task demonstrate" style="width:500px;">
 </div>
 
 ## Key Highlights
@@ -35,7 +35,8 @@ The script `gen_sim_data.py` can be used to generate the **BJTU-UVA-E** dataset,
 
 ## Download
 
-You can access the dataset via the following link:  
+You can access the dataset via the following link: 
+**[UvA Website](https://uvaauas.figshare.com/articles/dataset/Automatic_Spectral_Calibration_Dataset/28228163)** 
 **[BaiduNetDisk](https://pan.baidu.com/s/1NawnIBN3ixH_qec70zenLQ)**  
 **Password**: `pgkg`
 
